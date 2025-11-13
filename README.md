@@ -46,6 +46,9 @@ A complete REST API for managing tasks and comments, built using **Laravel 12**,
 # 📦 Installation & Setup
 
 ## 1️⃣ Clone the project
-```bash
-git clone <repo-url>
+
+git clone https://github.com/AhmadShamouka/task-management-api.git
 cd task
+
+
+project duration 4hours 30 min
